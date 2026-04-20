@@ -1,0 +1,316 @@
+# depslib dependency file v1.0
+1716916683 source:c:\users\naric\onedrive\escritorio\proyectos\fitness time\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1716922279 c:\users\naric\onedrive\escritorio\proyectos\fitness time\const.h
+
+1716922267 c:\users\naric\onedrive\escritorio\proyectos\fitness time\menu.h
+
+1716934390 source:c:\users\naric\onedrive\escritorio\proyectos\fitness time\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"const.h"
+	"admin.h"
+
+1716920453 source:c:\users\naric\onedrive\escritorio\proyectos\fitness time\gestionalimentacion.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"gestionAlimentacion.h"
+	"menu.h"
+
+1716920301 c:\users\naric\onedrive\escritorio\proyectos\fitness time\gestionalimentacion.h
+	"const.h"
+
+1716934534 c:\users\naric\onedrive\escritorio\proyectos\fitness time\admin.h
+
+1716934534 source:c:\users\naric\onedrive\escritorio\proyectos\fitness time\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const.h"
+	"menu.h"
+
+1716933021 source:c:\users\naric\onedrive\escritorio\proyectos\fitness time\gestionentrenamiento.c
+
+1716933049 source:c:\users\naric\onedrive\escritorio\proyectos\fitness time\progreso.c
+
+1716934534 source:c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const.h"
+	"menu.h"
+
+1716922279 c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\const.h
+
+1716922267 c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\menu.h
+
+1716920453 source:c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\gestionalimentacion.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"gestionAlimentacion.h"
+	"menu.h"
+
+1716920301 c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\gestionalimentacion.h
+	"const.h"
+
+1716933021 source:c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\gestionentrenamiento.c
+
+1716916683 source:c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1716934390 source:c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"const.h"
+	"admin.h"
+
+1716934534 c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\admin.h
+
+1716933049 source:c:\users\naric\onedrive\escritorio\proyectos\version base con alimentacion\progreso.c
+
+1716936167 source:c:\tps utn\version base con alimentacion\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const.h"
+	"menu.h"
+
+1716936167 c:\tps utn\version base con alimentacion\const.h
+
+1716995311 c:\tps utn\version base con alimentacion\menu.h
+
+1716936167 source:c:\tps utn\version base con alimentacion\gestionentrenamiento.c
+
+1716992471 source:c:\tps utn\version base con alimentacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1716936167 source:c:\tps utn\version base con alimentacion\progreso.c
+
+1717004210 source:c:\tps utn\version base con alimentacion\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"const.h"
+	"admin.h"
+	"gestionAlimentacion.h"
+	"gestionEntrenamiento.h"
+
+1716936167 c:\tps utn\version base con alimentacion\admin.h
+
+1717000030 c:\tps utn\version base con alimentacion\gestionalimentacion.h
+	"const.h"
+
+1716936167 c:\tps utn\version base con alimentacion\gestionentrenamiento.h
+
+1717000677 source:c:\tps utn\version base con alimentacion\gestionalimentacion.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"gestionAlimentacion.h"
+	"menu.h"
+
+1716936167 source:c:\version base con alimentacion\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const.h"
+	"menu.h"
+
+1716936167 c:\version base con alimentacion\const.h
+
+1718304982 c:\version base con alimentacion\menu.h
+
+1717011275 source:c:\version base con alimentacion\gestionalimentacion.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"gestionAlimentacion.h"
+	"menu.h"
+
+1717000030 c:\version base con alimentacion\gestionalimentacion.h
+	"const.h"
+
+1716936167 source:c:\version base con alimentacion\gestionentrenamiento.c
+
+1716992471 source:c:\version base con alimentacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1717004210 source:c:\version base con alimentacion\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"const.h"
+	"admin.h"
+	"gestionAlimentacion.h"
+	"gestionEntrenamiento.h"
+
+1716936167 c:\version base con alimentacion\admin.h
+
+1716936167 c:\version base con alimentacion\gestionentrenamiento.h
+
+1716936167 source:c:\version base con alimentacion\progreso.c
+
+1718463758 source:c:\tp final cuatri 1\tp final cuatri 1\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const.h"
+	"menu.h"
+
+1718463758 c:\tp final cuatri 1\tp final cuatri 1\const.h
+
+1718674688 c:\tp final cuatri 1\tp final cuatri 1\menu.h
+
+1718676679 source:c:\tp final cuatri 1\tp final cuatri 1\gestionalimentacion.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"gestionAlimentacion.h"
+	"menu.h"
+
+1718663736 c:\tp final cuatri 1\tp final cuatri 1\gestionalimentacion.h
+	"const.h"
+	"menu.h"
+
+1718463757 source:c:\tp final cuatri 1\tp final cuatri 1\gestionentrenamiento.c
+
+1718463758 source:c:\tp final cuatri 1\tp final cuatri 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1718676670 source:c:\tp final cuatri 1\tp final cuatri 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"const.h"
+	"admin.h"
+	"gestionAlimentacion.h"
+	"gestionEntrenamiento.h"
+
+1718463758 c:\tp final cuatri 1\tp final cuatri 1\admin.h
+
+1718463758 c:\tp final cuatri 1\tp final cuatri 1\gestionentrenamiento.h
+
+1718662757 source:c:\tp final cuatri 1\tp final cuatri 1\progreso.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Progreso.h"
+	"menu.h"
+
+1718661086 c:\tp final cuatri 1\tp final cuatri 1\progreso.h
+
+1718707886 source:c:\users\naric\downloads\tp final cuatri 1\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const.h"
+	"menu.h"
+	"admin.h"
+
+1718463758 c:\users\naric\downloads\tp final cuatri 1\const.h
+
+1718697584 c:\users\naric\downloads\tp final cuatri 1\menu.h
+
+1718697172 source:c:\users\naric\downloads\tp final cuatri 1\gestionalimentacion.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"gestionAlimentacion.h"
+	"menu.h"
+
+1718663736 c:\users\naric\downloads\tp final cuatri 1\gestionalimentacion.h
+	"const.h"
+	"menu.h"
+
+1718698666 source:c:\users\naric\downloads\tp final cuatri 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1718698034 source:c:\users\naric\downloads\tp final cuatri 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"const.h"
+	"admin.h"
+	"gestionAlimentacion.h"
+	"gestionEntrenamiento.h"
+	"Progreso.h"
+
+1718698034 c:\users\naric\downloads\tp final cuatri 1\admin.h
+
+1718694866 c:\users\naric\downloads\tp final cuatri 1\gestionentrenamiento.h
+	"menu.h"
+
+1718696839 source:c:\users\naric\downloads\tp final cuatri 1\gestionentrenamiento.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"const.h"
+	"gestionEntrenamiento.h"
+	"menu.h"
+
+1718696839 source:c:\users\naric\downloads\tp final cuatri 1\progreso.c
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Progreso.h"
+	"menu.h"
+	"const.h"
+
+1718695698 c:\users\naric\downloads\tp final cuatri 1\progreso.h
+
